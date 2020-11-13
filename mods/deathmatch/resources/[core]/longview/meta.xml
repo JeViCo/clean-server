@@ -1,0 +1,4 @@
+<meta>
+    <info author='#RooTs' version='1.0.0' name='longview' description='long view all map' type='script' />
+    <script src="sourceS.lua" type="server" />
+</meta>
